@@ -46,3 +46,22 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+
+/* css start from here */
+
+.wrapper {
+  margin: 50px;
+  text-align: center;
+}
+
+.heading {
+  text-align: center;
+  font-size: 1.4rem;
+  margin: 15px 0;
+}
+
+input, button {
+  cursor: pointer;
+  outline: none;
+}
